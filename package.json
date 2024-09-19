@@ -1,0 +1,11 @@
+{
+  "name": "ddm-plugin-i18n-zh-tw",
+  "version": "1.0.0",
+  "description": "中文繁体语言包",
+  "i18nMain": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
