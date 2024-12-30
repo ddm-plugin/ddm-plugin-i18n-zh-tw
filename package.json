@@ -1,11 +1,26 @@
 {
   "name": "ddm-plugin-i18n-zh-tw",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "中文繁体语言包",
   "i18nMain": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm publish"
   },
-  "author": "",
-  "license": "ISC"
+  "files": [
+    "README.md",
+    "logo.png",
+    "zh-TW.js",
+    "index.js"
+  ],
+  "keywords": [
+    "Dubbo-Desktop-Manager",
+    "ddm-plugin",
+    "ddm", "i18n", "zh-TW", "i18n-zh-tw", "中文繁体语言包"
+  ],
+  "homepage": "https://github.com/ddm-plugin/ddm-plugin-dubbo-support",
+  "author": "qiaolin",
+  "license": "Apache 2.0",
+  "engines": {
+    "ddm": ">=2.0.0"
+  }
 }
